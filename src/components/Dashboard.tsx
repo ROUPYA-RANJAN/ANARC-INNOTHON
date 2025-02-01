@@ -19,8 +19,7 @@ const Dashboard: React.FC = () => {
             </div>
             <div className="flex items-center">
               <div className="flex items-center space-x-2">
-                <Brain className="h-5 w-5 text-purple-500" />
-                <span className="text-sm font-medium text-purple-600">AI Powered</span>
+                
               </div>
             </div>
           </div>
